@@ -2,6 +2,8 @@
 
 A modern, responsive **dashboard UI** built with **Bootstrap**. This project focuses on a clean admin-style layout, reusable components, and a mobile-friendly design suitable for admin panels, analytics dashboards, or internal tools.
 
+Live demo: https://ondrej108.github.io/Dashboard---bootsrap/
+
 ## 📋 Table of Contents
 - Technologies Used
 - Features
