@@ -2,7 +2,7 @@
 
 A responsive dashboard interface built with Bootstrap, focused on creating a clean admin-style layout using reusable components.
 
-🔗 Live Demo: https://ondrej108.github.io/dashboard-bootstrap/
+🔗 Live Demo: https://ondrej108.github.io/dashboard-bootsrap
 
 ---
 
