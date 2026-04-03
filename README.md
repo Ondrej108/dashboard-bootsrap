@@ -33,12 +33,12 @@ Combining utility classes with custom CSS
 Improving layout consistency and scalability
 📂 Project Structure
 
-Dashboard---bootsrap/
+dashboard-bootstrap/
 ├── index.html
 ├── assets/
-│ ├── css/
-│ ├── js/
-│ └── img/
+│   ├── css/
+│   ├── js/
+│   └── img/
 └── README.md
 
 ▶️ Run locally
