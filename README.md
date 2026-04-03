@@ -33,6 +33,7 @@ Combining utility classes with custom CSS
 Improving layout consistency and scalability
 📂 Project Structure
 
+```
 dashboard-bootstrap/
 ├── index.html
 ├── assets/
@@ -40,6 +41,7 @@ dashboard-bootstrap/
 │   ├── js/
 │   └── img/
 └── README.md
+```
 
 ▶️ Run locally
 
